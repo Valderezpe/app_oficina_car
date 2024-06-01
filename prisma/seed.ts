@@ -29,7 +29,7 @@ async function seedDatabase() {
     ];
     // Nomes criativos para as barbearias
     const creativeNames = [
-      "Barbearia Vintage",
+      "Espacamento",
       "Corte & Estilo",
       "Barba & Navalha",
       "The Dapper Den",
