@@ -136,7 +136,7 @@ async function seedDatabase() {
     // Fechar a conexão com o banco de dados
     await prisma.$disconnect();
   } catch (error) {
-    console.error("Erro ao criar as barbearias:", error);
+    console.error("Erro ao criar as lojas:", error);
   }
 }
 
